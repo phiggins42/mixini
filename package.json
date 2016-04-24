@@ -1,0 +1,15 @@
+{
+  "name": "mixini",
+  "version": "0.0.1",
+  "description": "mixes ini-parsed results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phiggins42",
+  "license": "MIT",
+  "dependencies": {
+    "ini": "^1.3.4",
+    "lodash.merge": "^4.3.5"
+  }
+}
